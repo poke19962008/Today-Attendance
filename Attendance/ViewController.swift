@@ -10,7 +10,7 @@ import UIKit
 
 class ViewController: UIViewController {
     
-    let urlRoot = URL(string: "http://139.59.3.76:60000/")
+    let urlRoot = URL(string: "192.168.1.3:60000/")
     
     let groupDefaults = UserDefaults.init(suiteName: "group.TodayAccessTokenDefault")
 

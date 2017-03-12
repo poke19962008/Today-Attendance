@@ -1,4 +1,4 @@
-# Today's Extension
+# Today's Attendance
 
 Simple easy to use iOS app extension, to have a quick look over your attendance. Tested over iPhone 7 running on iOS 10.3(beta) [requires Xcode 8.3 beta]. Thanks to [A2O](https://github.com/NihalSh/a2o) for providing the API.
 

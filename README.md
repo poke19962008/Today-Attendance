@@ -1,6 +1,6 @@
 # Today's Extension
 
-Simple easy to use iOS app extension, to have a quick look over your attendance. Tested over iPhone 7 running on iOS 10.3(beta) [requires Xcode 8.3 beta to run]. Thanks to [A2O](https://github.com/NihalSh/a2o) for providing the API.
+Simple easy to use iOS app extension, to have a quick look over your attendance. Tested over iPhone 7 running on iOS 10.3(beta) [requires Xcode 8.3 beta]. Thanks to [A2O](https://github.com/NihalSh/a2o) for providing the API.
 
 > This has been developed keeping user's privacy in mind. 
 > No user credentials are saved on cloud or in any sort of database.
@@ -14,7 +14,7 @@ Extension Screen           |  App Screen
 ```bash
 $ git clone https://github.com/NihalSh/a2o.git
 $ cd a20
-$ npm i | node app.js # Change the host to external IP if needed
+$ npm i | node app.js # Change host to external IP if needed
 ```
 
 The MIT License (MIT)

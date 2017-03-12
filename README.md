@@ -3,11 +3,11 @@
 Simple easy to use iOS app extension, to have a quick look over your attendance. Tested over iPhone 7 running on iOS 10.3(beta) [requires Xcode 8.3 beta to run]. Thanks to [A2O](https://github.com/NihalSh/a2o) for providing the API.
 
 > This has been developed keeping user's privacy in mind. 
-> No user credentials are saved on cloud.
+> No user credentials are saved on cloud or in any sort of database.
 
 Extension Screen           |  App Screen
 :-------------------------:|:-------------------------:
-![](https://...Ocean.png)  |  ![](https://...Dark.png)
+![](https://raw.githubusercontent.com/poke19962008/Today-Attendance/master/Assets/sc1.PNG)  |  ![](https://raw.githubusercontent.com/poke19962008/Today-Attendance/master/Assets/sc2.PNG)
 
 ### Run Server
 
